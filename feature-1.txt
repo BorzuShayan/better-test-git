@@ -1,1 +1,1 @@
-feature 1 has beem added
+feature 1 has been added
